@@ -1,13 +1,13 @@
-House Sales Dashboard is an interactive dashboard created in Tableau that provides an analysis of house sales data. The project includes a database and visualizations organized into seven worksheets, combined into a single dashboard.
+House Sales Dashboard is an interactive dashboard created in Tableau that analyzes house sales data. The project includes a database and visualizations organized into seven worksheets, combined into a single dashboard.
 
 Contents.
 
-1.Worksheets.
+1. Worksheets.
 
   Calendar:
     Sales timeline by date.
   Daily Average Sales Price:
-    Average daily sales price of properties.
+    The average daily sales price of properties.
   Map:
     Geographical map showing the location of properties.
   Distribution of House Prices:
@@ -19,7 +19,7 @@ Contents.
   Distribution of Bathrooms:
     Distribution of the number of bathrooms.
   
-2.Dashboard.
+2. Dashboard.
     
   The interactive dashboard integrates all worksheets and provides filters for refining the data:
     Year Built: The year the house was built.
@@ -29,9 +29,9 @@ Contents.
 
 How to Use.
 
-1.Open the dashboard file in Tableau.
-2.Use the filters to analyze data based on your criteria.
-3.Explore each worksheet for detailed insights.
+1. Open the dashboard file in Tableau.
+2. Use the filters to analyze data based on your criteria.
+3. Explore each worksheet for detailed insights.
 
 Project Purpose.
 
